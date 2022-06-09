@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [ayush-kumar-regal-sawine-61548b.netlify.app](ayush-kumar-regal-sawine-61548b.netlify.app)
+- 👨‍💻 All of my projects are available at [https://ayush-kumar-regal-sawine-61548b.netlify.app/](https://ayush-kumar-regal-sawine-61548b.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React**
 
