@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ayush-hilarious-bublanina-70c34c.netlify.app/](https://ayush-hilarious-bublanina-70c34c.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**
 
 - 📫 How to reach me **ak0735000@gmail.com**
 
