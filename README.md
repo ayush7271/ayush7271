@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://ayush-hilarious-bublanina-70c34c.netlify.app/](https://ayush-hilarious-bublanina-70c34c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://https://ayush-classy-bublanina-c914be.netlify.app//](https://ayush-classy-bublanina-c914be.netlify.app//)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**
 
 - 📫 How to reach me **ak0735000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VHO3FZ87GLbH-GjqdW0uFqtFFDm7Bok3/view?usp=sharing](https://drive.google.com/file/d/1VHO3FZ87GLbH-GjqdW0uFqtFFDm7Bok3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NDbSq-1NzvI5sXtxVr-gCNRxtlPq4ZPl/view?usp=sharing](https://drive.google.com/file/d/1NDbSq-1NzvI5sXtxVr-gCNRxtlPq4ZPl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
