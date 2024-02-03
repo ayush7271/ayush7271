@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ak0735000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NDbSq-1NzvI5sXtxVr-gCNRxtlPq4ZPl/view?usp=sharing](https://drive.google.com/file/d/1NDbSq-1NzvI5sXtxVr-gCNRxtlPq4ZPl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1krUGAqTKAVdUo0ZJ-flt0Hf7vtGVZdFI/view?usp=sharing](https://drive.google.com/file/d/1krUGAqTKAVdUo0ZJ-flt0Hf7vtGVZdFI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
